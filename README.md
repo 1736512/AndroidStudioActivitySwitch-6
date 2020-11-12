@@ -1,0 +1,2 @@
+# AndroidStudioActivitySwitch-6
+ 
